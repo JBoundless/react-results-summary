@@ -1,0 +1,30 @@
+[
+  {
+    "category": "Reaction",
+    "score": 80,
+    "icon": "https://raw.githubusercontent.com/JBoundless/results-starter/main/assets/images/icon-reaction.svg",
+    "color": "hsl(0, 100%, 67%)",
+    "background": "hsla(0, 100%, 67%, 15%)"
+  },
+  {
+    "category": "Memory",
+    "score": 92,
+    "icon": "https://raw.githubusercontent.com/JBoundless/results-starter/main/assets/images/icon-memory.svg",
+    "color": "hsl(39, 100%, 56%)",
+    "background": "hsla(39, 100%, 56%, 15%)"
+  },
+  {
+    "category": "Verbal",
+    "score": 61,
+    "icon": "https://raw.githubusercontent.com/JBoundless/results-starter/main/assets/images/icon-verbal.svg",
+    "color": "hsl(166, 100%, 37%)",
+    "background": "hsla(166, 100%, 37%, 15%)"
+  },
+  {
+    "category": "Visual",
+    "score": 72,
+    "icon": "https://raw.githubusercontent.com/JBoundless/results-starter/main/assets/images/icon-visual.svg",
+    "color": "hsl(234, 85%, 45%)",
+    "background": "hsla(234, 85%, 45%, 15%)"
+  }
+]
